@@ -36,6 +36,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kporosl/kporosl/output/snake.svg" alt="Snake animation" />
-
-###
