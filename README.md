@@ -15,9 +15,9 @@
 ###
 
 <p align="left">📂 참여 프로젝트
-- [링크 텍스트]([링크 주소](https://github.com/JJH0204/Ignite_CTF))
-- [링크 텍스트](링크 주소)
-- [링크 텍스트](링크 주소)
+CTF Ignite ([CTF Ignite 링크](https://github.com/jinyeong001))
+Flame WarGame ([Flame WarGame 링크](Flame WarGame 링크))
+Nova/Supernova ([Nova/Supernova 링크](Nova/Supernova 링크))
 </p>
 
 ###
