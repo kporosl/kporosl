@@ -16,9 +16,9 @@
 
 <p align="left">📂 참여 프로젝트
   
-* CTF Ignite ([CTF Ignite 링크](https://github.com/jinyeong001))
-* Flame WarGame ([Flame WarGame 링크](Flame WarGame 링크))
-* Nova/Supernova ([Nova/Supernova 링크](Nova/Supernova 링크))
+* ([CTF Ignite](https://github.com/JJH0204/Ignite_CTF))
+* ([Flame WarGame](https://github.com/JJH0204/Flame))
+* ([Nova/Supernova](https://jinyeong.gitbook.io/devsecops))
 </p>
 ###
 
