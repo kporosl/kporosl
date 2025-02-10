@@ -21,7 +21,7 @@
 * ([Nova/Supernova](https://jinyeong.gitbook.io/devsecops))
 </p>
 ###
-<p align="left">👩‍💻 Intro.</p>
+<p align="left">🔧 Collaboration & Tools</p>
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
   <img width="12" />
